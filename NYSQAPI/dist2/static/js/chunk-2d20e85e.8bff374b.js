@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20e85e"],{b071:function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view")},c=[],u={name:"MercArticle"},a=u,i=t("2877"),l=Object(i["a"])(a,r,c,!1,null,"992eb606",null);n["default"]=l.exports}}]);

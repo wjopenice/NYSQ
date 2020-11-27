@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c54d0"],{"3f07":function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",{staticClass:"dashboard-container"})},c=[],s={name:"CardIndex"},r=s,d=e("2877"),i=Object(d["a"])(r,t,c,!1,null,"82138af6",null);a["default"]=i.exports}}]);
